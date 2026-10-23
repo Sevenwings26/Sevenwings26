@@ -1,6 +1,6 @@
-# Hi there, I'm Iyanu Arowosola 👋
+# Hi, I'm Iyanu Arowosola 😊
 
-### **Backend & AI Systems Engineer** | Enterprise RAG · LLM Agents · Python (FastAPI, Django)
+### **Backend & AI Systems Engineer** | RAG · LLM Agents · Python (FastAPI, Django)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iyanu_Arowosola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iyanuarowosola)
 [![GitHub](https://img.shields.io/badge/GitHub-Sevenwings26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sevenwings26)
@@ -11,12 +11,12 @@
 
 ### ⚡ About Me
 
-I am a **Backend and AI Engineer** with **4+ years of backend experience** (and **2+ years in AI/ML**), specializing in **Enterprise Retrieval-Augmented Generation (RAG)**, autonomous context engines, and high-concurrency Python backends (**FastAPI, Django**) across enterprise AI, health-tech, and fintech/e-commerce.
+I am a **Backend and AI Engineer** with **4+ years of backend experience** (and **2+ years in AI/ML**), specializing in **Retrieval-Augmented Generation (RAG)**, autonomous context engines, and high-concurrency Python backends (**FastAPI, Django**) across enterprise AI, health-tech, and fintech/e-commerce.
 
 > *"AI hasn't come to make software easy; it has come to raise the bar for system architecture."*
 
 - 🔭 **Currently building:** An on-premise, multi-tenant **Enterprise RAG & Autonomous Context Platform** at **TechyZ Limited** designed for 100–1,000+ users across relational databases (PostgreSQL, MSSQL, Oracle) and corporate knowledge silos (SharePoint, Confluence, Google Workspace).
-- 🧠 **System Focus:** Replacing stochastic context amnesia and $O(N^2)$ prompt stuffing with **LangGraph state machines**, **Redis JSON blackboards**, **0ms regex fast-paths**, and **AST-validated Text-to-SQL sandboxes**.
+- 🧠 **System Focus:** Replacing stochastic context amnesia and `O(N²)` prompt stuffing with **LangGraph state machines**, **Redis JSON blackboards**, **0ms regex fast-paths**, and **AST-validated Text-to-SQL sandboxes**.
 - 🛡️ **Security & Scale:** Enforcing zero-leakage multi-tenancy via **Keycloak SSO (OIDC/OAuth2)** JWT role claims mapped to **Qdrant** index-level payload pre-filters and row-level database RBAC.
 - 👨‍🏫 **Community & Mentorship:** Trained **100+ developers** in production Python backend engineering, OAuth2/JWT security, database sharding, and AWS deployments.
 
@@ -59,42 +59,6 @@ I am a **Backend and AI Engineer** with **4+ years of backend experience** (and 
 ![Keycloak](https://img.shields.io/badge/Keycloak_(OIDC_%2F_OAuth2)-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_%2F_Bash-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 🚀 Featured Systems & Architecture
-
-#### 1. 🦅 [Enterprise Multi-Tenant Cognitive RAG & Autonomous Context Engine](https://github.com/Sevenwings26/cognitive-rag-system)
-> *Modular Clean Architecture RAG platform uniting heterogeneous SQL databases and corporate knowledge silos under strict RBAC.*
-- **Decoupled Strategy Pattern Orchestration:** Routes intents across isolated execution pipelines—Stateless Dynamic Text-to-SQL, ACL-governed Qdrant Vector RAG, Ephemeral Session Document Q&A, and Conversational turns.
-- **Universal Blackboard (`Redis` + `LangGraph`):** Maintains out-of-band working memory with a post-execution `StateHarvester` that extracts primary keys and metrics to enable virtualization-free cross-database foreign-key joins (e.g., resolving a customer ID in PostgreSQL on Turn 1 and binding to T-SQL in MSSQL on Turn 4).
-- **Zero-Leakage Security:** Keycloak SSO (OIDC/OAuth2) JWT claims bound to Qdrant payload pre-filters + runtime SQLAlchemy schema reflection and AST-validated read-only SQL sandboxes.
-
-#### 2. 🏥 Multi-Tenant Clinical LIMS & Async Diagnostic Engine *(Medvuno)*
-- Architected a multi-tenant Laboratory Information Management System on **Django** with strict row-level tenant isolation and department-level RBAC.
-- Engineered an asynchronous **Gemini-powered diagnostic reporting pipeline** using **Celery & Redis**, decoupling LLM report synthesis from HTTP cycles and reducing database load by 40%.
-- Designed an event-driven clinical alert notification system and automated zero-downtime CI/CD deployments to **AWS ECS/RDS** via GitHub Actions.
-
-#### 3. 📈 Chrysalis Finance — Equities Intelligence & RAG Assistant
-- Built a financial intelligence platform for Nigerian equities (**NGX**) featuring real-time market feeds, wallet infrastructure, trading simulation, and a **RAG-powered market assistant** that explains equity movements and financial data.
-
-#### 4. 👤 High-Throughput Face Extraction & Identity Resolution Pipeline
-- Developed a computer vision pipeline using **InsightFace** and **ONNX Runtime** to isolate specific individuals in complex group photos using **512-dimensional face embeddings** and pre-normalized cosine similarity matching for low-CPU batch runs.
-
-#### 5. 💳 MarketPrime — E-Commerce Marketplace & Payment Infrastructure
-- Led backend & third-party integrations on a ~15-person team using **Django REST Framework**, integrating **Paystack** for customer checkout, automated split vendor disbursements, webhook reconciliation, and automated vendor KYC.
-
----
-
-### 💼 Experience Snapshot
-
-| Role | Organization | Period | Core Focus |
-| :--- | :--- | :--- | :--- |
-| **Backend / RAG Engineer** | **TechyZ Limited** *(Remote)* | Jun 2026 – Present | Enterprise RAG, LangGraph/Redis Blackboard, Text-to-SQL, Keycloak RBAC, Qdrant |
-| **Lead Backend Developer** | **Medvuno** *(Contract, Remote)* | Oct 2025 – Mar 2026 | Multi-Tenant LIMS, Django, Gemini + Celery/Redis Async Pipelines, AWS ECS/RDS |
-| **Python Dev Instructor** | **Soft Quest Inc. (SQI)** *(Ibadan)* | May 2024 – Jun 2026 | Trained 100+ students in API Security (OAuth2/JWT), System Design, Sharding & AWS |
-| **Backend & Integration Lead**| **MarketPrime** *(Remote)* | Sep 2024 – Dec 2024 | DRF Marketplace, Paystack Webhooks & Disbursements, Automated KYC, Latency Tuning |
-| **Full-Stack Web Developer** | **Arcade Dynasty** *(Contract)* | Apr 2022 – Sep 2024 | RESTful Django APIs, PostgreSQL Query Optimization, JWT/RBAC, React Integration |
 
 ---
 
