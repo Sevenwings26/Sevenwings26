@@ -2,23 +2,9 @@
 
 ### **Backend & AI Systems Engineer** | RAG · LLM Agents · Python (FastAPI, Django)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iyanu_Arowosola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iyanuarowosola)
-[![GitHub](https://img.shields.io/badge/GitHub-Sevenwings26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sevenwings26)
-[![Email](https://img.shields.io/badge/Email-iarowosola25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iarowosola25@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Ibadan,_Nigeria_(UTC+1)-2ea44f?style=for-the-badge)](https://github.com/Sevenwings26)
+I'm a Backend & AI Engineer 👨‍💻 who's been building scalable systems with Python for over 4 years. I enjoy engineering complex orchestration pipelines for Retrieval-Augmented Generation (RAG), AI systems, and financial applications across various industries. I embrace Agile methodologies to get things done and maintain a growth mindset to tackle new challenges.
 
----
-
-### ⚡ About Me
-
-I am a **Backend and AI Engineer** with **4+ years of backend experience** (and **2+ years in AI/ML**), specializing in **Retrieval-Augmented Generation (RAG)**, autonomous context engines, and high-concurrency Python backends (**FastAPI, Django**) across enterprise AI, health-tech, and fintech/e-commerce.
-
-> *"AI hasn't come to make software easy; it has come to raise the bar for system architecture."*
-
-- 🔭 **Currently building:** An on-premise, multi-tenant **Enterprise RAG & Autonomous Context Platform** at **TechyZ Limited** designed for 100–1,000+ users across relational databases (PostgreSQL, MSSQL, Oracle) and corporate knowledge silos (SharePoint, Confluence, Google Workspace).
-- 🧠 **System Focus:** Replacing stochastic context amnesia and `O(N²)` prompt stuffing with **LangGraph state machines**, **Redis JSON blackboards**, **0ms regex fast-paths**, and **AST-validated Text-to-SQL sandboxes**.
-- 🛡️ **Security & Scale:** Enforcing zero-leakage multi-tenancy via **Keycloak SSO (OIDC/OAuth2)** JWT role claims mapped to **Qdrant** index-level payload pre-filters and row-level database RBAC.
-- 👨‍🏫 **Community & Mentorship:** Trained **100+ developers** in production Python backend engineering, OAuth2/JWT security, database sharding, and AWS deployments.
+- 🔭 **Currently building:** An-premise, multi-tenant **Enterprise RAG & Autonomous Context Platform** designed for 100–1,000+ users across relational databases (PostgreSQL, MSSQL, Oracle) and corporate knowledge silos (SharePoint, Confluence, Google Workspace), with Techyz Limited.
 
 ---
 
